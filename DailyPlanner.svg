@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="DailyPlanner.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="209.52421"
+     inkscape:cy="536.05111"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4552" />
+    <sodipodi:guide
+       position="243.79464,125.4881"
+       orientation="0,1"
+       id="guide4554"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11.759859,194.03768"
+       orientation="1,0"
+       id="guide926"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="117.73958,268.55208"
+       orientation="1,0"
+       id="guide928"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="193.14583,207.88691"
+       orientation="0,1"
+       id="guide930"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#262626;stroke-width:0.25022513;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -1.1074476e-8,16.541666 H 210.15476"
+       id="path10"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#262626;stroke-width:0.28916237;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.31329889, 2.31329889;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 105,16.352686 V 297"
+       id="path10-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#262626;stroke-width:0.289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.312,2.312;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 210.29924,111.79167 H 104.6994"
+       id="path10-3-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#262626;stroke-width:0.289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.312,2.312;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 210.83211,207.04153 H 0.53255193"
+       id="path10-3-6-7"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.6901784"
+       y="10.572919"
+       id="text828"><tspan
+         sodipodi:role="line"
+         id="tspan826"
+         x="6.6901784"
+         y="10.572919"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05555534px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Date</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.289;stroke-miterlimit:4;stroke-dasharray:2.31199997, 2.31199997000000002;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect830"
+       width="210.34375"
+       height="16.819941"
+       x="-0.1889881"
+       y="-0.27827397" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.289;stroke-miterlimit:4;stroke-dasharray:2.31199997, 2.31199997;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect832"
+       width="210.34375"
+       height="16.819941"
+       x="-0.1889881"
+       y="-0.27827397" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.289;stroke-miterlimit:4;stroke-dasharray:2.31199997, 2.31199997;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect834"
+       width="210.34375"
+       height="16.819941"
+       x="-0.1889881"
+       y="-0.27827397" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.4858527"
+       y="27.298367"
+       id="text828-3"><tspan
+         sodipodi:role="line"
+         id="tspan826-9"
+         x="6.4858527"
+         y="27.298367"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05555534px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Schedule</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="112.27759"
+       y="122.62883"
+       id="text828-3-1"><tspan
+         sodipodi:role="line"
+         id="tspan826-9-8"
+         x="112.27759"
+         y="122.62883"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05555534px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Motivation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="112.48363"
+       y="27.298367"
+       id="text828-3-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan826-9-8-7"
+         x="112.48363"
+         y="27.298367"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05555534px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Goals</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="112.44044"
+       y="217.7597"
+       id="text828-3-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan826-9-8-5"
+         x="112.44044"
+         y="217.7597"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05555534px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Happiness</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="6.9520559"
+       y="217.68875"
+       id="text828-3-1-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan826-9-8-5-7"
+         x="6.9520559"
+         y="217.68875"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:7.05555534px;font-family:'Josefin Sans';-inkscape-font-specification:'Josefin Sans, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">To-Do</tspan></text>
+  </g>
+</svg>
